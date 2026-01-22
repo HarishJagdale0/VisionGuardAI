@@ -1,5 +1,5 @@
 # VisionGuardAI
-VisionGuard AI is a full-stack AI application designed to detect objects, activities, and anomalies in images and video streams. It uses deep learning models to process visual data and provides real-time insights through a web dashboard. The project focuses on scalability, performance, and secure cloud deployment under the Google ecosystem.   gkpekpqg ergmtrmewme rer hwf;etmhwef eth ewe,mg; ew;mem eth eet;g,wr; gw gmg;mew t whmr;fm;ermgew rgmegqel[wlw gr,gwl[er wh,w,eg;q ;er,g'r; eth w,fwrw get ,'[etle'g,;wrg',r'rge r,e,rg w,'r ,e'g,wee ;,ggw;ergwr rw 'etmweg,th; ','w h,r'et
+VisionGuard AI is a full-stack AI application designed to detect objects, activities, and anomalies in images and video streams. It uses deep learning models to process visual data and provides real-time insights through a web dashboard. The project focuses on scalability, performance, and secure cloud deployment under the Google ecosystem.   gkpekpqg ergmtrmewme rer hwf;etmhwef eth ewe,mg; ew;mem eth eet;g,wr; gw gmg;mew t whmr;fm;ermgew rgmegqel[wlw gr,gwl[er wh,w,eg;q ;er,g'r; eth w,fwrw get ,'[etle'g,;wrg',r'rge r,e,rg w,'r ,e'g,w;ergwr rw 'etmweg,th; ','w h,r'et
 
 Tech Stack:
 
