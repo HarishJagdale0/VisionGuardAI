@@ -3,7 +3,6 @@ VisionGuard AI is a full-stack AI application designed to detect objects, activi
 
 
 Tech Stack:
-
 Frontend: React + Tailwind
                              Backend: Python (FastAPI)
                                                        AI: CNNs, Computer Vision models
