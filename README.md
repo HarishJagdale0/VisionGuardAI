@@ -215,6 +215,3 @@ Building the Future of AI Vision Intelligence 🌍
 </p>
 
 ---
-
-
-Just tell me what style you want 🚀
